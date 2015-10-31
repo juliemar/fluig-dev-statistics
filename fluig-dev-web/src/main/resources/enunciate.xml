@@ -1,0 +1,10 @@
+<enunciate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="http://enunciate.codehaus.org/schemas/enunciate-1.27.xsd">
+	
+	<modules>
+		<docs title="Fluig Public API" copyright="www.fluig.com" indexPageName="doc"
+		 freemarkerXMLProcessingTemplate="doc.fmt">
+		 	<additional-css file="../webapp/resources/css/doc.css"/>
+		</docs>
+	</modules>
+</enunciate>

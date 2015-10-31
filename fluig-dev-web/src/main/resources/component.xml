@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component code="fluigdevstatistics">
+	<title>fluig de Statistics</title>
+	<description>Fluig Dev Statistics</description>
+	<category>Social</category>
+	<icon />
+	<developerCode>TOTVS</developerCode>
+	<developerName>TOTVS</developerName>
+	<developerURL>http://www.totvs.com.br</developerURL>
+</component>
